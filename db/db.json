@@ -4,14 +4,14 @@
       "id": "e1b2338c-27bd-42a9-b0e3-06a4ec3c3896",
       "name": "APIMGTPORTAL",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrtPgIUBsQscypy+2A2l6oHKlLRTgD4hlrYKW9IrAK4ll0FPndJ3i57CioPalYKdNMF9+K4mFaGfT3dAMRSgWWWDeaerHx35VLgdX/wFTN5Zf1QYGeWiKyAmCAXoPwtlfvlLqsr9NMBJ3Ua+fFqSC4/6ThhudMlrxNL/ut/kd+pQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2024-12-05T00:00:00.000Z"
     },
     {
       "id": "7d68f750-b69b-4783-a6da-ed0ab4db3682",
       "name": "USSD",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDaaCnidH6w14i3iMbMwif+1T6DDEEH9YWlt9G2sufwPRC5PDpkGs2ARMjRpNBAoZst6/XbsbGlF4sr3w2Qpd1aQlit61kXY+nNAnBBUIPX55yZMknw/Q45kaqmOCmlRlYHAQDc3sQyJd2AfKwQyQamupGJu9XVV9ASAAn/oXX0NQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.226638Z",
       "updatedAt": "2025-02-08T13:26:11.226669Z"
     },
@@ -19,7 +19,7 @@
       "id": "edfc81ff-699e-47ba-be89-a13c23d743db",
       "name": "GAPS",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQOVgMSEWI540Yoo0lGKc8kTNmhnyE2hI6WzeixC0XLGjjhskcbtINkxSrhm7td+j/S18e1ClfolKW1pHLQdSL15VZ/xnMTfzCV+9CyUve/iYtXttYWoeFqIUjFUgDl3R5i8UoQ2g63ZDpBRht2kNATFiw+sydRYN6KB5TBd9PcQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.227188Z",
       "updatedAt": null
     },
@@ -35,7 +35,7 @@
       "id": "54239f34-9ede-4a23-b897-8737277c1be8",
       "name": "IBANK",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJnHAUj7P4ZLmZeKGKP5XqjG9vDk7tE+PbvjCbkSMTO7xQCmfJoRo2DlurHNqTTJ24R4vYyOGe+Kf8Vx9giYOBYGgd+KDsPrUwzD9hKR5iSsWcUGfrhDOpjFtt0lZhJQRQ9urlCb7Y6UTCw579EisGhLNK1pSipW/PdWU/EhcJQQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.227853Z",
       "updatedAt": "2025-02-08T13:26:11.227878Z"
     },
@@ -51,7 +51,7 @@
       "id": "b01ffcf6-eee7-4a3f-b914-82b91c3ddf26",
       "name": "AccessManager",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVhY8qY4mx27M9K4/jelMqLlepf2AnrvFn5zdjoCmW+adQalEZw/HhxjR3jJbniOgvu8gIGlHzZDZTj4Axhx/gfu7F2Vvqt4I7AqCu42Q7ssQqBN5el9+LktxFtO1EonklpY1p+Cuvpp8UMn3fMexp0V4qoZzFcOBeUa6/YDEofQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.228663Z",
       "updatedAt": null
     },
@@ -99,7 +99,7 @@
       "id": "48c58187-4443-43b1-b6ed-1ee98e8a113c",
       "name": "RPABOT",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1MdWkLYKZOinSBeiYvr6viW/l55faTujiG8+aMAaZkVx/PTm4YbZYeFP6ph6gBfzN6IvBvXH5w+reDL9pBGIsqFyW5ruu+zlNhp2r1Wo2qjs2LXiln/yParQmGJ5RdKZBC6ZLPsPMIkS89H7fWdJBe0B5Sd7UEZD+/TNPZRwtWQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.230929Z",
       "updatedAt": "2025-02-08T13:26:11.230947Z"
     },
@@ -131,7 +131,7 @@
       "id": "dc3db04e-b7ae-44a9-a40a-32b187317fc1",
       "name": "ARBINOTIJOB",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDV/OzNx3P0RDxsmuu23wQdItHQe1rXoLhfw+OF7OVP677YBeHCdqF8U8l5WEQZTtciIanFHPr+5Rw376Ygag4KdkfRL3T874NhywxMcN77Tw8mGckvGdPwzP1gj8vcYcY4MTyW7lk7oaTECkKCUoT5zKahPk1MAXrmCNiM1cGitQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.231687Z",
       "updatedAt": null
     },
@@ -155,7 +155,7 @@
       "id": "94503d53-55db-40de-a3ae-9082973f8e63",
       "name": "ETRACKER",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7ZyPD1xynsaLthZ8pd6EUk/zmvjyvyXnzr6zJupkdh0qd3OMFJXPF7MJ0yZ0tJBCbigzmOanijHa3rdUP8l5dT/ofdh0o0d54ZAjv5Y/W7Wh2CYncaQi4fvk/2RFy2ijpZuIUFKpWTRvkm4bk9qznwNAP/gqt5POwQEKuCj5FnQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.231990Z",
       "updatedAt": "2025-02-08T13:26:11.231998Z"
     },
@@ -187,7 +187,7 @@
       "id": "17cfe472-c340-429d-99f7-c6a9d883ef29",
       "name": "NUBANCHECKER",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDC7U4SpSeTTCbXihfIa9aHKyOpzIn3triV6BqHiTSk89r52x2666u0dHpxl+2g2TXru4cXB1ZEjssbv370iA7L9DmozEFzGSSZqQPcxyB6ke0hJ0UmMDaD6XGCO+eTNNJ1Os/l099gE/Kd3lKh5Gz7RgLhkVtpSirxUdsIXfnTLQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.232333Z",
       "updatedAt": null
     },
@@ -211,7 +211,7 @@
       "id": "69b46512-30ef-496e-bd25-acbb7149d704",
       "name": "TRADESERVICE",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD12w0qHWXWsg4d6SxXiDqEa6BVod6cUCQVLFvrSELW9aplO+jivQw9LlLZgoZ0N75Gtg6QfTTkONxHcULmVXo4ZdgEj0btFggG8uE+yHJ6mrrL4H71omrtUt8NbU9xiS5jH7jwwkqV1z65Qk92gxZ5gDeDD9m0MHAloD6wtnmQXQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.232575Z",
       "updatedAt": "2025-02-08T13:26:11.232581Z"
     },
@@ -227,7 +227,7 @@
       "id": "3257ed52-6205-4247-a65f-79998a49f455",
       "name": "REMITTA",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4SL9v4BoFxWJcnR9SXp0pmT/zn8B0X7K58BsSwxr5sp4cC7FT8y64ZPZrK5olQQcK2pXQsoFnmw4Pmw6LUpuIGQRVn5D2J0o9aHl376gM3hMvWGrdypXUHUpDzhaXJX170ZfbgttYB0SQjqALDX7VAGGeB/Z9pzx+8G1BQ/JcfQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.232764Z",
       "updatedAt": null
     },
@@ -235,7 +235,7 @@
       "id": "6bf3f299-fcf7-4be8-9998-b81b11920121",
       "name": "FINACLE",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnYjFIN8TlqQ/HdKB/P+f+yHUMiNY+WDZxy4iYUMZS/rg0gcd+CuSpkHTAj/F9GX3B6u5g9LoaZ/i0hfhHGlQhMPQNq/YU37gvoUfWSvx/FaPNpa667xlAjJHioy4bOsV3dZOEin4Ps3ipU3QRr1sIfDAyr7jzH6c4+m6E0QO90QIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.232881Z",
       "updatedAt": null
     },
@@ -251,7 +251,7 @@
       "id": "4ae39254-cba3-4b66-886c-a108d08e2e11",
       "name": "TP-ETOKEN",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDj0Mrbcx8BxJ4aFuBjK9nYLB0BeyTfUiglfm7DjJaTZ3e5KVv/ZlgHInTQrxBK0PTmDJz65WEMSOrtStvtCxXPiXIfbLMROUqTCezWu6pQt04/r3FYPdGrhNoLqFmvMmU1eP0eh69F+HJvNfx6FqwyfQWwDEYxr80hUB4/Mw0iTQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.233271Z",
       "updatedAt": "2025-02-08T13:26:11.233279Z"
     },
@@ -259,7 +259,7 @@
       "id": "221b23e8-e345-47e7-a171-cb4fbd62b5e1",
       "name": "BPM",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1WACYAbStWTKs0o7t4EHKcB4TULuwPVag5ltqE7sZGrL/NsThWDVDzlkIg09g9R4oirovBL99Mpzoofb3YZlI250tb4PDQXI7UyVKu0Q84ys8YoWjAnbYTp/BKSfZyjwo0fp8734C8p+p3n9+5azSbYQZYKSjgydTdGnWOgLzmQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.233384Z",
       "updatedAt": "2025-02-08T13:26:11.233392Z"
     },
@@ -267,7 +267,7 @@
       "id": "09de3351-866d-438e-8244-c73d414081c3",
       "name": "BULKACCTJOB",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDPI90YCYtjgcM7qTBBKj6Eq0RHBmc6Wetn+aTn/Sqn+wU2i4YMZtoQVpgbWWxr+xIGay3RBVwoT1g/EaT/MeW27mE6M6VDzI9fk+L8SFJeCMjJb35WubUdZjv3aigLxxmteR/9DTkFWIU7ViGR3AhunuAxWaqw6McXk+4+MFnoPQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.233471Z",
       "updatedAt": "2025-02-08T13:26:11.233478Z"
     },
@@ -275,7 +275,7 @@
       "id": "1555a0f0-6208-4a14-931e-c1fd88b52130",
       "name": "SSO",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDiCHHw+NabeH767C72gJNvGPTlLRPDoctLi0D6wids7pi37CRCSe3S+ubzosmBePePfyBwX+iEKCiAGmVrCLQytthkr2epNfSdHRiUvr+ppwN4jdP0UVxSQodorfw0eXfS9v1FXC41MsRtc2+JuUuRAlxvOHB4mshqOr+hWL/Q5QIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.233554Z",
       "updatedAt": null
     },
@@ -283,7 +283,7 @@
       "id": "82365c60-2f7b-4d51-9cc2-44168cd5bd06",
       "name": "NIP",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD2KgcSmMhJYGdFLq0qZfjaRgWRgHfTrD+YgLTZblAOS4BT6cLyoUYvhub+EydQtxUxkkBowO0hTMhdXieX1M/LLfPU+mABzp38ouWVhfk0v5YvTLl3sNzF7HUGcTtaqVCCr23vmy4TqEpmUgdCTyTFJjUWg4SSLefSWwPS/dK4XQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.233632Z",
       "updatedAt": "2025-02-08T13:26:11.233640Z"
     },
@@ -291,7 +291,7 @@
       "id": "ef5c4c80-1cfb-4a45-ad78-e616dec34087",
       "name": "FTRPORTAL",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDlYTbYuKvDZz5TIv2IHCGUiKi8SFRIwafol50pJIYbpHda4g9HEviKhc0o2a/NaIoNBnfpP3Zvx4keZlLIs7hrqqFpMlz2fQAg9TYOeCbulY36Fd4+ApG6hA7la5yxZUgonsR/R32euBHNebKDV1184KomxcJI/jIwHID6HGWi5QIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.233711Z",
       "updatedAt": null
     },
@@ -323,7 +323,7 @@
       "id": "e1772229-e68d-4a89-a8d0-74d7efa252c3",
       "name": "PRIME",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJbPLqr+b1vTgf7zFuPH2xIZFaIXisUyutojKibkUstf4m6qur8etpuBEfki6ReHMWiZ4dqk3b0OYA+hI6G8n71n4GBRC16lmFV2J2tiQLbElUa1FU2P9ZGg4fGpxQFGrWgpRLSZOYbUZyoakYa+Y+auvN7GFGrbMvNJDy4k7KNQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.234081Z",
       "updatedAt": null
     },
@@ -339,7 +339,7 @@
       "id": "71b31f26-33cc-455b-8238-7ff3326696c7",
       "name": "INTERSWITCH",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCj98pLRYl4LQOVbEl2p1wCkQboJS5mA7Xtm20s0aYjryarPpgAPpDXoroBZRNuSlSOSwKquu0fPie/t6U5rE16nbWDGcRboyL8sZI3rR3EaG/IO4JE9kUwIaf/KN7z19F6KRZdpZPWRvD8+KzDW2tEjRmOdMNDXREYhng8HSFtLQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.234297Z",
       "updatedAt": "2025-02-08T13:26:11.234305Z"
     },
@@ -355,7 +355,7 @@
       "id": "cf35b9d2-fefe-4449-9f1f-0e3ca45530f2",
       "name": "BPS",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDfCsUC5J8YWiVupswlFiUYjpgXWmrK6PQvR/FWt4iMrs1OjYLLejKcy5+Gv8tgaILnt89v3NkRgapscBY2gRlgxSyXNUoGT0SwjKxs/HdNwSE26IfUWEXgQYGMGapgKhHwIC+B79kVa4wla9QSUjxcAJpwDxN3uWuLBQSgvt3vfQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.234452Z",
       "updatedAt": null
     },
@@ -371,7 +371,7 @@
       "id": "3d0001f9-dbee-4546-a509-3841e54c855c",
       "name": "SALARYADVANCE",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDZhKE6NIz2BwKI9DDPUxwmyR6HFSxnIwtbjKRtPjqQh/I/sSEse2bBI8KPPuU8xEZIWVEbMOFQmSbmnqAid3UqIA+coHUn0cGtZkdtC7soEO2l6f2BQcRP8PWm9vqMJ55ynqnaJpVFbHUBiHq0ov8vSPNmqDOkLDg1J8Rc+JcPWQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.234643Z",
       "updatedAt": null
     },
@@ -387,7 +387,7 @@
       "id": "c9c692a6-4da4-49cc-a338-c8b811e2d804",
       "name": "CARDPROFILER",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1KG03Qz9YIkKhER1w3S5DMmo0sF3aqGZiNXgy5IL3RKCEq8gSh3airOczKCvGDG77gUuRE0r7hHn4vGkkRdXrR+vncytcee4L4gMgkS4ZXlwO3w6JnlsGUGOivS8ulhbXri+/1CVwZQtXd3VlBNULg6YEj5up0kuyMt9CJ8uWcQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.234796Z",
       "updatedAt": "2025-02-08T13:26:11.234803Z"
     },
@@ -403,7 +403,7 @@
       "id": "612ad828-4dc4-4126-92a3-d1732dd3d146",
       "name": "AOWE",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD3KcQBJXTeY5huzbxSBEAdclbZPu7Mz/MqfrckfeuUd+INrA8Rk1DPdUlj2mx3OxnNmayGNWnRt3GtBGTX5MbOjd/XiC3VELAhUAHncMAa9WzuewQ7eg//xkd5UjpbYSUwG3J1hZWbjB9xcYFvUpdit22+Y15XDpCOu1gfZG/GcQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.235005Z",
       "updatedAt": "2025-02-08T13:26:11.235013Z"
     },
@@ -419,7 +419,7 @@
       "id": "4d068d66-268a-4634-a7fd-c77bb60dbda7",
       "name": "EBILLS",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfUudEHFbam8m3Al5TKnJDfYDsvDOMq7CtJ1durwqR9IJ0/hQHgxqJX2ToHo1D0ZXC/PEZ2NMLgvQIdQhiP+LZwTj2J0DZpJ6ncWNPQyDxcKSIXs9Zb240+9C+70wT2eViHNz0EsbwcfemXnufnpTFWf/F2LefsxXEeO1OM+106QIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.235171Z",
       "updatedAt": "2025-02-08T13:26:11.235179Z"
     },
@@ -427,7 +427,7 @@
       "id": "57fc3dce-9ae8-441e-97b5-42d39a7e49e0",
       "name": "NIPInward",
       "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0EzhkBFkaxczFQ20MsyWrZxJufsdGAsHZLeABkYWEPPbw6u9fdUvnoRAqicuMxoJuqIIQEbU2c4vTu3OHozh1LXy/p9yO94n4FDtch3BnXk6pyo/4QKLtc7OpIdpkhErmIk/GqccsHK2RShDcHSnngiugGxV5OAxQCtBVhXFItQIDAQAB",
-      "status": false,
+      "status": true,
       "createdAt": "2025-02-08T13:26:11.235378Z",
       "updatedAt": "2025-02-08T13:26:11.235401Z"
     },
